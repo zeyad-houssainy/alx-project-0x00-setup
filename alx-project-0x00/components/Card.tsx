@@ -5,11 +5,6 @@ import React from "react"
 import Pill from "./Pill"
 
 
-interface CardProps {
-  title: string;
-}
-
-
 const Card: React.FC = () => {
 
  return (
